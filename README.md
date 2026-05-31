@@ -14,7 +14,6 @@ I build modern web applications, SaaS products, and AI-powered solutions using *
 * Data Structures & Algorithms
 * Data Analytics with AI
 
-<br><br>
 
 ## 🌐 Socials
 
