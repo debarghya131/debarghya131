@@ -21,7 +21,6 @@ I build modern web applications, SaaS products, and AI-powered solutions using *
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/debarghya-bandyopadhyay-953b02400?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/debarghya131)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/debarghya131)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel\&logoColor=white)](https://portfolio.debarghya.org)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:debarghyabandyopadhyay191@gmail.com)
 
