@@ -1,5 +1,19 @@
-# 💫 About Me:
-Hi, I'm Debarghya Bandyopadhyay 👋<br><br>AI-Driven Full Stack Developer • Vibe Coder • CSE Student<br><br>I build modern web applications, SaaS products, and AI-powered solutions using React, Next.js, Node.js, MongoDB, TypeScript, and Python.<br><br>Currently Focused On<br>Full Stack Development<br>AI-Powered Applications<br>SaaS Product Development<br>Data Structures & Algorithms<br>Data Analytics with AI
+# 💫 About Me
+
+Hi, I'm **Debarghya Bandyopadhyay** 👋
+
+🚀 **AI-Driven Full Stack Developer** | 🎨 **Vibe Coder** | 💻 **CSE Student**
+
+I build modern web applications, SaaS products, and AI-powered solutions using **React.js, Next.js, Node.js, MongoDB, TypeScript, and Python**.
+
+### 🎯 Currently Focused On
+
+* Full Stack Development
+* AI-Powered Applications
+* SaaS Product Development
+* Data Structures & Algorithms
+* Data Analytics with AI
+
 
 
 ## 🌐 Socials:
