@@ -21,7 +21,7 @@
 
 I graduated **top 3** in my Diploma in Computer Science with a **9.4 CGPA** — and spent most of that time building things that weren't in the syllabus.
 
-Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple production-ready applications across AI, SaaS, real-time communication, and personal finance — all live, all deployed, all built end-to-end.
+Now pursuing **B.Tech in CSE at NSEC**, I've shipped multiple production-ready applications across AI, SaaS, real-time communication, and personal finance — all live, all deployed, all built end-to-end.
 
 - Currently focused on **Full Stack Development**, **AI-Powered Applications**, and **SaaS Products**
 - Strengthening fundamentals through **DSA**, **System Design**, and **Software Engineering**
