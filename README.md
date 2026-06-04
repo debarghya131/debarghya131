@@ -112,6 +112,10 @@ const debarghya = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debarghya131&theme=tokyonight" height="180em" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+</div>
+
 <br>
 
 <div align="center">
