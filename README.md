@@ -154,9 +154,11 @@ const debarghya = {
 
 ---
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=100&section=footer" />
 
-<div align="center">
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=debarghya131&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
 
