@@ -1,10 +1,10 @@
 <div align="center">
 
-# Debarghya Bandyopadhyay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Debarghya%20Bandyopadhyay&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI-Driven%20Full%20Stack%20Developer%20%C2%B7%20CSE%20Student%20%40%20NSEC%20%2727&descAlignY=55&descSize=16" />
 
-**AI-Driven Full Stack Developer · CSE Student @ NSEC '27**
+<br>
 
-*Building production-ready AI-powered applications, SaaS products, and real-time platforms.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI-Powered+SaaS+Applications;Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br>
 
@@ -17,35 +17,40 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I graduated **top 3** in my Diploma in Computer Science with a **9.4 CGPA** — and spent most of that time building things that weren't in the syllabus.
 
-Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple production-ready applications across AI, SaaS, real-time communication, and personal finance — all live, all deployed, all built end-to-end.
+Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple production-ready applications across AI, SaaS, real-time communication, and personal finance — **all live, all deployed, all built end-to-end.**
 
-- Currently focused on **Full Stack Development**, **AI-Powered Applications**, and **SaaS Products**
-- Strengthening fundamentals through **DSA**, **System Design**, and **Software Engineering**
-- Open to **internships**, **collaborations**, and **meaningful tech conversations**
+```typescript
+const debarghya = {
+  education:  "B.Tech CSE @ NSEC '27  |  Diploma CST (CGPA: 9.4 — Top 3)",
+  focus:      ["Full Stack Development", "AI-Powered Apps", "SaaS Products"],
+  currentlyLearning: ["System Design", "DSA", "Data Analytics with AI"],
+  openTo:     ["Internships", "Collaborations", "Tech Conversations"],
+};
+```
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| [**MonkMode**](https://monkmode.debarghya.org) | AI-powered self-improvement platform with habit tracking, heatmaps, goal analytics, and an LLM coaching engine (Ming) | React · Node.js · MongoDB · Groq API · Framer Motion |
+| [**MonkMode**](https://monkmode.debarghya.org) | AI self-improvement platform with habit tracking, heatmaps, goal analytics, and LLM coaching engine (Ming) | React · Node.js · MongoDB · Groq API · Framer Motion |
 | [**SkillBridge**](https://skillbridge.debarghya.org) | Two-sided marketplace connecting Tier-2/3 students with MSMEs via TrustScore, gigs, and escrow payments | React · Node.js · MongoDB · GitHub Actions |
-| [**Actual**](https://actual.debarghya.org) | AI personal finance platform with receipt scanning, budget tracking, Kubera AI assistant, and monthly reports | Next.js · TypeScript · PostgreSQL · Prisma · Gemini API · Inngest |
-| [**PippoAI**](https://pippoai.debarghya.org) | AI career coach with resume builder, PDF export, cover letter generation, mock interviews, and industry insights | Next.js 15 · React 19 · PostgreSQL · Gemini API · Inngest |
-| [**InstaMeet**](https://instameet.debarghya.org) | Full-stack video conferencing platform with WebRTC P2P streaming, Socket.IO signaling, screen sharing, and live chat | React · Node.js · WebRTC · Socket.IO · MongoDB |
-| [**PippoGPT**](https://pippo.debarghya.org) | Full-stack ChatGPT-style assistant with persistent threads, markdown rendering, code highlighting, and Groq AI | React · Node.js · MongoDB · Groq SDK · Clerk |
-| [**Zerodha Clone**](https://zerodha.debarghya.org) | Full-stack stock trading platform with JWT auth, protected dashboard, watchlist, holdings, and Chart.js analytics | React · Node.js · MongoDB · JWT · Chart.js |
-| [**Travel Diaries**](https://traveldiaries.debarghya.org) | MERN stack travel memory platform with community feed, user profiles, and full CRUD diary management | React · Redux Toolkit · Node.js · MongoDB · Clerk |
-| [**SnipLink**](https://sniplink.debarghya.org) | Fast, minimal URL shortener with custom short links, duplicate protection, and instant redirects | Next.js · MongoDB · Tailwind CSS |
+| [**Actual**](https://actual.debarghya.org) | AI finance platform with receipt scanning, budget tracking, Kubera AI assistant, and monthly reports | Next.js · TypeScript · PostgreSQL · Prisma · Gemini API |
+| [**PippoAI**](https://pippoai.debarghya.org) | AI career coach with resume builder, PDF export, cover letter generation, and mock interviews | Next.js 15 · React 19 · PostgreSQL · Gemini API · Inngest |
+| [**InstaMeet**](https://instameet.debarghya.org) | Video conferencing platform with WebRTC P2P streaming, Socket.IO signaling, and screen sharing | React · Node.js · WebRTC · Socket.IO · MongoDB |
+| [**PippoGPT**](https://pippo.debarghya.org) | Full-stack ChatGPT-style assistant with persistent threads, markdown rendering, and Groq AI | React · Node.js · MongoDB · Groq SDK · Clerk |
+| [**Zerodha Clone**](https://zerodha.debarghya.org) | Stock trading platform with JWT auth, protected dashboard, watchlist, and Chart.js analytics | React · Node.js · MongoDB · JWT · Chart.js |
+| [**Travel Diaries**](https://traveldiaries.debarghya.org) | MERN travel memory platform with community feed, user profiles, and full CRUD management | React · Redux Toolkit · Node.js · MongoDB · Clerk |
+| [**SnipLink**](https://sniplink.debarghya.org) | Fast URL shortener with custom short links, duplicate protection, and instant redirects | Next.js · MongoDB · Tailwind CSS |
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -95,7 +100,36 @@ Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple produc
 
 ---
 
-## Coding Profiles
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=debarghya131&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true" height="180em" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180em" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=debarghya131&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+---
+
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -123,18 +157,7 @@ Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple produc
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarghya131&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=dark&hide_border=false" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghya131&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180em" />
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7F7&height=100&section=footer" />
 
 <div align="center">
 
