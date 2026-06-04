@@ -1,18 +1,17 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Debarghya%20Bandyopadhyay&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20SaaS%20Builder%20%C2%B7%20CSE%20Student%20%40%20NSEC%20%2727&descAlignY=55&descSize=16" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+SaaS+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+Internships+%26+Collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=20\&pause=1500\&color=3B82F6\&center=true\&vCenter=true\&width=700\&lines=Building+AI-Powered+SaaS+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+Internships+%26+Collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.debarghya.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya-bandyopadhyay-953b02400)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/debarghya131)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debarghyabandyopadhyay191@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://portfolio.debarghya.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/debarghya-bandyopadhyay-953b02400)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/debarghya131)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:debarghyabandyopadhyay191@gmail.com)
 
 </div>
 
@@ -33,7 +32,7 @@ const debarghya = {
   currentlyLearning: ["System Design", "DSA", "Data Analytics with AI"],
   openTo:            ["Internships", "Collaborations", "Tech Conversations"],
 };
-````
+```
 
 ---
 
@@ -166,4 +165,3 @@ const debarghya = {
 *Open to internships, collaborations, and meaningful tech conversations.*
 
 </div>
-```
