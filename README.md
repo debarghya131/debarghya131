@@ -100,25 +100,15 @@ const debarghya = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=debarghya131&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&cache_seconds=1800" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" height="180em" />
 </div>
 
 <br>
