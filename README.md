@@ -19,11 +19,12 @@
 
 ## 👨‍💻 About Me
 
-I’m an **AI-Driven Full Stack Developer** and Computer Science student who enjoys building modern web applications, SaaS products, and intelligent AI-powered solutions.
+I’m an **AI-Driven Full Stack Developer** and Computer Science student who enjoys building real-world web applications and AI-powered products.
 
 Currently, I’m pursuing **B.Tech in CSE at NSEC ’27**. Before that, I completed my Diploma in Computer Science with a **9.4 CGPA** and ranked among the **top 3 students**.
 
-My main focus is on **Full Stack Development, AI applications, SaaS products, and real-time web platforms**. I like building projects that are not just for learning, but actually deployed, usable, and close to real-world products.
+I’ve built and deployed multiple full-stack applications across **AI, SaaS, real-time communication, and personal finance** — all developed end-to-end, from frontend and backend to database, authentication, and deployment.
+
 
 ```typescript
 const debarghya = {
