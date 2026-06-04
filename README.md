@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+AI-Powered+SaaS+Applications;Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+SaaS+Applications+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js;Open+to+Internships+%26+Collaborations+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <br>
 
@@ -25,10 +25,10 @@ Now pursuing **B.Tech in CSE at NSEC** (CGPA: 8.4), I've shipped multiple produc
 
 ```typescript
 const debarghya = {
-  education:  "B.Tech CSE @ NSEC '27  |  Diploma CST (CGPA: 9.4 — Top 3)",
-  focus:      ["Full Stack Development", "AI-Powered Apps", "SaaS Products"],
+  education:         "B.Tech CSE @ NSEC '27  |  Diploma CST (CGPA: 9.4 — Top 3)",
+  focus:             ["Full Stack Development", "AI-Powered Apps", "SaaS Products"],
   currentlyLearning: ["System Design", "DSA", "Data Analytics with AI"],
-  openTo:     ["Internships", "Collaborations", "Tech Conversations"],
+  openTo:            ["Internships", "Collaborations", "Tech Conversations"],
 };
 ```
 
@@ -36,17 +36,17 @@ const debarghya = {
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [**MonkMode**](https://monkmode.debarghya.org) | AI self-improvement platform with habit tracking, heatmaps, goal analytics, and LLM coaching engine (Ming) | React · Node.js · MongoDB · Groq API · Framer Motion |
-| [**SkillBridge**](https://skillbridge.debarghya.org) | Two-sided marketplace connecting Tier-2/3 students with MSMEs via TrustScore, gigs, and escrow payments | React · Node.js · MongoDB · GitHub Actions |
-| [**Actual**](https://actual.debarghya.org) | AI finance platform with receipt scanning, budget tracking, Kubera AI assistant, and monthly reports | Next.js · TypeScript · PostgreSQL · Prisma · Gemini API |
-| [**PippoAI**](https://pippoai.debarghya.org) | AI career coach with resume builder, PDF export, cover letter generation, and mock interviews | Next.js 15 · React 19 · PostgreSQL · Gemini API · Inngest |
-| [**InstaMeet**](https://instameet.debarghya.org) | Video conferencing platform with WebRTC P2P streaming, Socket.IO signaling, and screen sharing | React · Node.js · WebRTC · Socket.IO · MongoDB |
-| [**PippoGPT**](https://pippo.debarghya.org) | Full-stack ChatGPT-style assistant with persistent threads, markdown rendering, and Groq AI | React · Node.js · MongoDB · Groq SDK · Clerk |
-| [**Zerodha Clone**](https://zerodha.debarghya.org) | Stock trading platform with JWT auth, protected dashboard, watchlist, and Chart.js analytics | React · Node.js · MongoDB · JWT · Chart.js |
-| [**Travel Diaries**](https://traveldiaries.debarghya.org) | MERN travel memory platform with community feed, user profiles, and full CRUD management | React · Redux Toolkit · Node.js · MongoDB · Clerk |
-| [**SnipLink**](https://sniplink.debarghya.org) | Fast URL shortener with custom short links, duplicate protection, and instant redirects | Next.js · MongoDB · Tailwind CSS |
+| Project | Description | Tech | Live Demo |
+|---|---|---|:---:|
+| [**MonkMode**](https://monkmode.debarghya.org) | AI self-improvement platform with habit tracking, heatmaps, goal analytics, and LLM coaching engine (Ming) | React · Node.js · MongoDB · Groq API · Framer Motion | [🔗 Demo](https://monkmode.debarghya.org) |
+| [**SkillBridge**](https://skillbridge.debarghya.org) | Two-sided marketplace connecting Tier-2/3 students with MSMEs via TrustScore, gigs, and escrow payments | React · Node.js · MongoDB · GitHub Actions | [🔗 Demo](https://skillbridge.debarghya.org) |
+| [**Actual**](https://actual.debarghya.org) | AI finance platform with receipt scanning, budget tracking, Kubera AI assistant, and monthly reports | Next.js · TypeScript · PostgreSQL · Prisma · Gemini API | [🔗 Demo](https://actual.debarghya.org) |
+| [**PippoAI**](https://pippoai.debarghya.org) | AI career coach with resume builder, PDF export, cover letter generation, and mock interviews | Next.js 15 · React 19 · PostgreSQL · Gemini API · Inngest | [🔗 Demo](https://pippoai.debarghya.org) |
+| [**InstaMeet**](https://instameet.debarghya.org) | Video conferencing with WebRTC P2P streaming, Socket.IO signaling, screen sharing, and live chat | React · Node.js · WebRTC · Socket.IO · MongoDB | [🔗 Demo](https://instameet.debarghya.org) |
+| [**PippoGPT**](https://pippo.debarghya.org) | Full-stack ChatGPT-style assistant with persistent threads, markdown rendering, and Groq AI | React · Node.js · MongoDB · Groq SDK · Clerk | [🔗 Demo](https://pippo.debarghya.org) |
+| [**Zerodha Clone**](https://zerodha.debarghya.org) | Stock trading platform with JWT auth, protected dashboard, watchlist, and Chart.js analytics | React · Node.js · MongoDB · JWT · Chart.js | [🔗 Demo](https://zerodha.debarghya.org) |
+| [**Travel Diaries**](https://traveldiaries.debarghya.org) | MERN travel memory platform with community feed, user profiles, and full CRUD management | React · Redux Toolkit · Node.js · MongoDB · Clerk | [🔗 Demo](https://traveldiaries.debarghya.org) |
+| [**SnipLink**](https://sniplink.debarghya.org) | Fast URL shortener with custom short links, duplicate protection, and instant redirects | Next.js · MongoDB · Tailwind CSS | [🔗 Demo](https://sniplink.debarghya.org) |
 
 ---
 
