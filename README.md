@@ -113,7 +113,7 @@ const debarghya = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="60%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=debarghya131&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 <br>
