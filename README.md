@@ -103,12 +103,13 @@ const debarghya = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&cache_seconds=1800" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=debarghya131&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=debarghya131&theme=tokyonight" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghya131&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact&cache_seconds=1800" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=debarghya131&theme=tokyonight&utcOffset=5.5" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debarghya131&theme=tokyonight" height="180em" />
 </div>
 
 <br>
