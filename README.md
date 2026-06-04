@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Debarghya%20Bandyopadhyay&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20SaaS%20Builder%20%C2%B7%20CSE%20Student%20%40%20NSEC%20%2727&descAlignY=55&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3B82F6&height=200&section=header&text=Debarghya%20Bandyopadhyay&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI-Driven%20Full%20Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20CSE%20Student%20%40%20NSEC%20%2727&descAlignY=55&descSize=16" />
 
 <br>
 
@@ -19,17 +19,18 @@
 
 ## 👨‍💻 About Me
 
-I ranked among the **top 3 students** in my Diploma in Computer Science with a **9.4 CGPA**, while actively building projects beyond the syllabus.
+I’m an **AI-Driven Full Stack Developer** and Computer Science student who enjoys building modern web applications, SaaS products, and intelligent AI-powered solutions.
 
-I’m currently pursuing **B.Tech in Computer Science & Engineering at NSEC** with an **8.4 CGPA**. My focus is on building production-ready full-stack applications across **AI, SaaS, real-time communication, personal finance, and developer-focused tools**.
+Currently, I’m pursuing **B.Tech in CSE at NSEC ’27**. Before that, I completed my Diploma in Computer Science with a **9.4 CGPA** and ranked among the **top 3 students**.
 
-I enjoy turning ideas into deployed products — from AI career coaches and finance assistants to video conferencing platforms and student-focused marketplaces.
+My main focus is on **Full Stack Development, AI applications, SaaS products, and real-time web platforms**. I like building projects that are not just for learning, but actually deployed, usable, and close to real-world products.
 
 ```typescript
 const debarghya = {
-  education:         "B.Tech CSE @ NSEC '27  |  Diploma CST (CGPA: 9.4 — Top 3)",
-  focus:             ["Full Stack Development", "AI-Powered Apps", "SaaS Products"],
-  currentlyLearning: ["System Design", "DSA", "Data Analytics with AI"],
+  role:              "AI-Driven Full Stack Developer",
+  education:         "B.Tech CSE @ NSEC '27 | Diploma CST — 9.4 CGPA",
+  interests:         ["AI Apps", "SaaS", "Full Stack Development", "Real-Time Systems"],
+  currentlyLearning: ["DSA", "System Design", "Data Analytics with AI"],
   openTo:            ["Internships", "Collaborations", "Tech Conversations"],
 };
 ```
