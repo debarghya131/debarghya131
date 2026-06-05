@@ -37,6 +37,7 @@ const debarghya = {
 ```
 
 ---
+
 ## 🚀 Projects
 
 | Project                                                   | Description                                                                                               | Tech                                                      |                               Code                               |                     Live                    |
@@ -47,9 +48,10 @@ const debarghya = {
 | [**PippoAI**](https://pippoai.debarghya.org)              | AI career coach with resume builder, PDF export, cover letter generation, and mock interviews             | Next.js 15 · React 19 · PostgreSQL · Gemini API · Inngest |  [GitHub](https://github.com/debarghya131/Pippo-AI-CareerCoach)  |    [Demo](https://pippoai.debarghya.org)    |
 | [**SkillBridge**](https://skillbridge.debarghya.org)      | Two-sided marketplace connecting Tier-2/3 students with MSMEs via TrustScore, gigs, and escrow payments   | React · Node.js · MongoDB · GitHub Actions                |      [GitHub](https://github.com/debarghya131/Skill-Bridge)      |  [Demo](https://skillbridge.debarghya.org)  |
 | [**PippoGPT**](https://pippo.debarghya.org)               | Full-stack ChatGPT-style assistant with persistent threads, markdown rendering, and Groq AI integration   | React · Node.js · MongoDB · Groq SDK · Clerk              |        [GitHub](https://github.com/debarghya131/PippoGPT)        |     [Demo](https://pippo.debarghya.org)     |
+| [**AI Object Detector**](https://objectdetector.debarghya.org) | Browser-based AI object detection app with real-time webcam detection, bounding boxes, confidence scores, and mobile optimization | Next.js · React · TensorFlow.js · COCO-SSD · Tailwind CSS | [GitHub](https://github.com/debarghya131/AI-Object-Detector) | [Demo](https://objectdetector.debarghya.org) |
 | [**Zerodha Clone**](https://zerodha.debarghya.org)        | Stock trading platform with JWT authentication, protected dashboard, watchlist, and Chart.js analytics    | React · Node.js · MongoDB · JWT · Chart.js                |      [GitHub](https://github.com/debarghya131/ZerodhaClone)      |    [Demo](https://zerodha.debarghya.org)    |
 | [**Travel Diaries**](https://traveldiaries.debarghya.org) | MERN travel memory platform with community feed, user profiles, and full CRUD management                  | React · Redux Toolkit · Node.js · MongoDB · Clerk         |     [GitHub](https://github.com/debarghya131/Travel-Diaries)     | [Demo](https://traveldiaries.debarghya.org) |
-| [**SnipLink**](https://sniplink.debarghya.org)            | Fast URL shortener with custom short links, duplicate protection, and instant redirects                   | Next.js · MongoDB · Tailwind CSS                          | [GitHub](https://github.com/debarghya131/Sniplink_URL-Shortener) |    [Demo](https://sniplink.debarghya.org)   |
+| [**SnipLink**](https://sniplink.debarghya.org)            | Fast URL shortener with custom short links, duplicate protection, and instant redirects                   | Next.js · MongoDB · Tailwind CSS                          | [GitHub](https://github.com/debarghya131/Sniplink_URL-Shortener) |    [Demo](https://sniplink.debarghya.org)   |                         | [GitHub](https://github.com/debarghya131/Sniplink_URL-Shortener) |    [Demo](https://sniplink.debarghya.org)   |
 
 ---
 
