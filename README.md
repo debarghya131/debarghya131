@@ -134,9 +134,9 @@ const debarghya = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/debarghya131/)
 [![Code360](https://img.shields.io/badge/Code360-FF6B00?style=for-the-badge\&logo=codingninjas\&logoColor=white)](https://www.naukri.com/code360/profile/debarghya131)
+[![InterviewBit](https://img.shields.io/badge/InterviewBit-3F51B5?style=for-the-badge\&logo=interviewbit\&logoColor=white)](https://www.interviewbit.com/profile/debarghya131/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://www.geeksforgeeks.org/profile/debarghya131)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/debarghya131)
-[![InterviewBit](https://img.shields.io/badge/InterviewBit-3F51B5?style=for-the-badge\&logo=interviewbit\&logoColor=white)](https://www.interviewbit.com/profile/debarghya131/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/users/debarghya131)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge\&logo=hackerearth\&logoColor=white)](https://www.hackerearth.com/@debarghya131/)
 
@@ -148,9 +148,9 @@ const debarghya = {
 
 |    Platform   | Problems Solved |
 | :-----------: | :-------------: |
-|    Code360    |       300+      |
-|    LeetCode   |       200+      |
-| GeeksforGeeks |       100+      |
+|    Code360    |       350+      |
+|    LeetCode   |       250+      |
+| InterviewBit  |       100+      |
 
 </div>
 
