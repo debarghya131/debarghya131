@@ -149,8 +149,8 @@ const debarghya = {
 
 |    Platform   | Problems Solved |
 | :-----------: | :-------------: |
-|    Code360    |       350+      |
-|    LeetCode   |       250+      |
+|    Code360    |       400+      |
+|    LeetCode   |       300+      |
 | InterviewBit  |       100+      |
 
 </div>
