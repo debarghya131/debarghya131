@@ -388,6 +388,19 @@ Want the complete experience?
 
 ---
 
+# 🏅 Highlights
+
+<div align="center">
+
+| 📌 Highlight | Details |
+|:---|:---|
+| 🎓 **Diploma Achievement** | Ranked among the **top 3 students** with **9.4 CGPA** |
+| 🚀 **Projects** | **10+** full-stack and AI-focused projects |
+| 🧠 **Problem Solving** | **800+** problems across Code360, LeetCode & InterviewBit |
+| 🤖 **Focus** | AI · Full Stack · SaaS · Backend · Developer Tools |
+| 🌐 **Deployment** | Building and deploying real-world web products |
+
+</div>
 
 ---
 
@@ -499,7 +512,7 @@ Want the complete experience?
 
 <p>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq" alt="Groq"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
 <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge" alt="Inngest"/>
 </p>
@@ -527,7 +540,7 @@ Want the complete experience?
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=debarghya131&theme=tokyo-night&hide_border=true&area=true"
+  src="https://raw.githubusercontent.com/debarghya131/debarghya131/output/activity-graph.svg"
   width="95%"
   alt="GitHub Contribution Activity Graph"
 />
@@ -577,7 +590,7 @@ Want the complete experience?
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=debarghya131&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+  src="./profile/trophy.svg"
   width="95%"
   alt="GitHub Profile Trophies"
 />
