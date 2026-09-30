@@ -176,6 +176,11 @@ A productivity and self-improvement platform combining habit tracking, goal mana
 </a>
 </p>
 
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
+
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -189,21 +194,24 @@ A productivity and self-improvement platform combining habit tracking, goal mana
   <li>⚡ <strong>Productivity Insights</strong></li>
 </ul>
 
-<h3>🧩 Engineering</h3>
+</td>
 
-<ul>
-  <li>AI-powered application workflows</li>
-  <li>Analytics &amp; visualization</li>
-  <li>Habit &amp; goal data management</li>
-  <li>LLM-based coaching workflow</li>
-  <li>Responsive frontend architecture</li>
-  <li>Framer Motion interactions</li>
-</ul>
+<td width="38%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
 
 <p>
-<strong>Tech Stack:</strong><br>
-React · Node.js · MongoDB · Groq API · Framer Motion
+React<br><br>
+Node.js<br><br>
+MongoDB<br><br>
+Groq API<br><br>
+Framer Motion
 </p>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -239,6 +247,11 @@ A two-sided platform connecting students and MSMEs through gigs, TrustScore, and
 </a>
 </p>
 
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
+
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -252,22 +265,23 @@ A two-sided platform connecting students and MSMEs through gigs, TrustScore, and
   <li>📊 Opportunity-driven experience</li>
 </ul>
 
-<h3>🧩 Engineering</h3>
+</td>
 
-<ul>
-  <li>Full-stack application architecture</li>
-  <li>Student-side &amp; MSME-side workflows</li>
-  <li>Database-driven opportunity management</li>
-  <li>Trust &amp; credibility workflow</li>
-  <li>Payment-oriented workflow design</li>
-  <li>CI/CD through GitHub Actions</li>
-  <li>Production deployment</li>
-</ul>
+<td width="38%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
 
 <p>
-<strong>Tech Stack:</strong><br>
-React · Node.js · MongoDB · GitHub Actions
+React<br><br>
+Node.js<br><br>
+MongoDB<br><br>
+GitHub Actions
 </p>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -303,6 +317,11 @@ A finance platform combining expense tracking, budgeting, receipt processing, an
 </a>
 </p>
 
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
+
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -314,22 +333,24 @@ A finance platform combining expense tracking, budgeting, receipt processing, an
   <li>🔍 <strong>Financial Analytics</strong></li>
 </ul>
 
-<h3>🧩 Engineering</h3>
+</td>
 
-<ul>
-  <li>Next.js application architecture</li>
-  <li>TypeScript development</li>
-  <li>PostgreSQL data layer</li>
-  <li>Prisma ORM</li>
-  <li>Gemini API integration</li>
-  <li>Financial analytics workflows</li>
-  <li>Responsive product interface</li>
-</ul>
+<td width="38%" valign="top">
+
+<h3>🛠️ Tech Stack</h3>
 
 <p>
-<strong>Tech Stack:</strong><br>
-Next.js · TypeScript · PostgreSQL · Prisma · Gemini API
+Next.js<br><br>
+TypeScript<br><br>
+PostgreSQL<br><br>
+Prisma<br><br>
+Gemini API
 </p>
+
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -519,22 +540,6 @@ Want the complete experience?
 
 # 📊 GitHub Analytics
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/debarghya131/debarghya131/output/activity-graph.svg"
-  width="95%"
-  alt="GitHub Contribution Activity Graph"
-/>
-
-</div>
-
-<br>
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <img
@@ -563,20 +568,6 @@ Want the complete experience?
   src="https://streak-stats.demolab.com/?user=debarghya131&theme=tokyonight&hide_border=true"
   width="70%"
   alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="./profile/trophy.svg"
-  width="95%"
-  alt="GitHub Profile Trophies"
 />
 
 </div>
