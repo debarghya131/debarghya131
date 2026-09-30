@@ -141,7 +141,7 @@ I build and deploy full-stack applications across **AI, SaaS, developer tools, f
 
 # 🏆 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
 <!-- ===================================================== -->
@@ -176,11 +176,6 @@ A productivity and self-improvement platform combining habit tracking, goal mana
 </a>
 </p>
 
-<table width="100%">
-<tr>
-
-<td width="62%" valign="top">
-
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -194,24 +189,11 @@ A productivity and self-improvement platform combining habit tracking, goal mana
   <li>⚡ <strong>Productivity Insights</strong></li>
 </ul>
 
-</td>
-
-<td width="38%" valign="top">
-
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-React<br><br>
-Node.js<br><br>
-MongoDB<br><br>
-Groq API<br><br>
-Framer Motion
+React · Node.js · MongoDB · Groq API · Framer Motion
 </p>
-
-</td>
-
-</tr>
-</table>
 
 </td>
 
@@ -247,11 +229,6 @@ A two-sided platform connecting students and MSMEs through gigs, TrustScore, and
 </a>
 </p>
 
-<table width="100%">
-<tr>
-
-<td width="62%" valign="top">
-
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -265,23 +242,11 @@ A two-sided platform connecting students and MSMEs through gigs, TrustScore, and
   <li>📊 Opportunity-driven experience</li>
 </ul>
 
-</td>
-
-<td width="38%" valign="top">
-
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-React<br><br>
-Node.js<br><br>
-MongoDB<br><br>
-GitHub Actions
+React · Node.js · MongoDB · GitHub Actions
 </p>
-
-</td>
-
-</tr>
-</table>
 
 </td>
 
@@ -317,11 +282,6 @@ A finance platform combining expense tracking, budgeting, receipt processing, an
 </a>
 </p>
 
-<table width="100%">
-<tr>
-
-<td width="62%" valign="top">
-
 <h3>✨ Key Features</h3>
 
 <ul>
@@ -333,24 +293,11 @@ A finance platform combining expense tracking, budgeting, receipt processing, an
   <li>🔍 <strong>Financial Analytics</strong></li>
 </ul>
 
-</td>
-
-<td width="38%" valign="top">
-
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-Next.js<br><br>
-TypeScript<br><br>
-PostgreSQL<br><br>
-Prisma<br><br>
-Gemini API
+Next.js · TypeScript · PostgreSQL · Prisma · Gemini API
 </p>
-
-</td>
-
-</tr>
-</table>
 
 </td>
 
@@ -517,7 +464,7 @@ Want the complete experience?
 
 <p>
 <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq" alt="Groq"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt Engineering"/>
 <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge" alt="Inngest"/>
 </p>
