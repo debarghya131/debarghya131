@@ -388,22 +388,6 @@ Want the complete experience?
 
 ---
 
-# 🏅 Highlights
-
-<div align="center">
-
-| 📌 Highlight | Details |
-|:---|:---|
-| 🎓 **Diploma Achievement** | Ranked among the **top 3 students** with **9.4 CGPA** |
-| 🚀 **Projects** | **10+** full-stack and AI-focused projects |
-| 🧠 **Problem Solving** | **800+** problems across Code360, LeetCode & InterviewBit |
-| 🤖 **Focus** | AI · Full Stack · SaaS · Backend · Developer Tools |
-| 🌐 **Deployment** | Building and deploying real-world web products |
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ## ⭐ Core Stack
